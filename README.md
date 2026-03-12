@@ -26,5 +26,16 @@
 1. `npm install`
 2. `npm run dev`
 
+# 🌌 Athenea Analytics - AI SaaS Landing Page
+
+<div align="center">
+  
+  [![🌐 Ver Demo en Vivo](https://img.shields.io/badge/DEMO-EN_VIVO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://athenea-analytics.vercel.app/)
+
+  <p align="center">
+    <strong>SaaS de analíticas con IA para agencias digitales con estética Cyberpunk Premium.</strong>
+  </p>
+</div>
+
 ---
 Creado por [Maria Gabriela Moran Paez](https://github.com/mariamoranpaez)
